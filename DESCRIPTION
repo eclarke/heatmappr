@@ -1,0 +1,9 @@
+Package: heatmappr
+Type: Package
+Title: Utilities for heatmaps in ggplot2
+Version: 0.1.0
+Author: Erik Clarke
+Maintainer: Erik Clarke <erikclarke@gmail.com>
+Description: Color schemes and aspect ratio fixes for heatmaps produced with ggplot2's geom_tile
+License: GPL >= 2
+LazyData: TRUE
